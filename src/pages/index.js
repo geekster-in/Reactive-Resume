@@ -119,7 +119,6 @@ const Home = () => {
             <Link to="/blog/jobs-during-covid-19">Jobs During COVID-19</Link>
           </div>
         </div>
-
         <footer className="my-24">
           <p className="text-primary-500">
             Licensed under <a href="/">MIT</a>
